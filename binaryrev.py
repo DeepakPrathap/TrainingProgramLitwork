@@ -17,4 +17,3 @@ for i in range(len(l)-1,-1,-1):
   result+=l[i]*(2**j)
   j+=1
 print(result)
-    
